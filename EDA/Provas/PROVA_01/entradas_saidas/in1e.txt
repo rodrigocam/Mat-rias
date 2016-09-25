@@ -1,0 +1,6 @@
+I Carlos 22
+I Maria 19
+I Pedro 20
+E Jose 12
+E Maria 19
+I Manoel 44
