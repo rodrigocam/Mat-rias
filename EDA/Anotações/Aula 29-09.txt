@@ -1,0 +1,23 @@
+- Destruir lista encadeada recursivamente.
+- Imprimir a lista em ordem normal.
+- Imprimir a lista em ordem inversa.
+
+Listas Circulares - O último nó aponta para o início da lista .
+
+2- Elaborar um programa para montar uma lista circular simples á partir de 7 inteiros.
+Funções a serem implementadas:
+  a)Impressão da lista (modo não recursivo)
+  b)Verificar se é possível implementar o conceito de recursividade para imprimir a lista circular.
+
+3- Elaborar um programa para montar uma lista circular, duplamente encadeada à partir da leitura de 7 números inteiros.
+unções a serem implementadas:
+  a)Impressão da lista (testar versões recursiva e não recursiva)
+  b)Pesquisar um elemento  na lista (testar versão recursiva e não recursiva)
+
+Listas homogêñeas (Variações para o campo info):
+  **O campo de informação faz parte da definição de nó
+  **O campo de informação aponta para uma struct que contem os dados do nó.
+
+Listas heterogêneas - Os nós devem apontar para elementos diferentes.
+ Configuração típica:
+    structs distintas;

@@ -1,0 +1,6 @@
+-- Tema: RECURSIVIDADE --
+
+Forma de escrever programas usando o princípio de empilhameto de contextos.
+Quando usar ? Problemas com um caso geral com um caso específico (limitante).
+Ex: Fatorial - caso geral Fat(n) = n*Fat(n-1) | caso específico - Fat(0), pois não tem termo anterior.
+Em algum momento o caso geral converge para o caso específico.
