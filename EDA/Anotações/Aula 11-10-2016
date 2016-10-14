@@ -1,0 +1,17 @@
+Pilhas - estrutura de dados que admite remoção e adição de elementos de acordo com a politica LIFO - "Last in first out" (O último a ser inserido é o primeiro que é removido). Normalmente implementa em vetores e listas encadeadas.
+
+Dicas (p/ vetores):
+    . Se topo == 0 -> pilha vazia
+    . Se topo == N -> pilha cheia
+    . P/ inserir (empilhar) -> pilha[topo++] = x
+    . p/ remover (desempilhar) -> y = pilha[--topo]
+
+Exercício: implementar um programa para manipular uma pilha num vetor de 7 posições. Entradas possíveis:
+
+   I - incluir um elemento (int) na pilha
+   R - remover um elemento da pilha
+   P - imprimir a pilha
+   F - finalizar o loop de entrada de dados
+   
+  Ex: I 22, I10, I14, P, R, R, F;
+  

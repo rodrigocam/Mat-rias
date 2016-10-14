@@ -1,7 +1,7 @@
 Fila - estrutura de dados que admite a inserção de elementos novos e remoção de elementos antigos segundo o conceito de "First in First out" ( O primeiro
 que chega é o primeiro que sai). Em geral ilas podem ser implementadas em vetores e listas dinâmicas.
 
-Exercício: escreva um programa para simular o funcionamento de uma fila de N inteiros, num vetor de M posições (supor N <= M e M = 8). Funções do programa:
+Exercício: escreva um programa para simular o funcionamento de uma fila de N inteiros, num vetor de M posições (supor N < M e M = 8). Funções do programa:
 
 a) inserir um elemento na fila
 b) remover um elemento da fila (imprimir o elemento removido)
