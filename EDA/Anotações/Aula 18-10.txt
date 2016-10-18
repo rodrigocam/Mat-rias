@@ -1,0 +1,2 @@
+Exercicio: Elaborar um programa para identificar se uma determinada sequência de parênteses e colchetes
+está correta. Ex: {[()]}.

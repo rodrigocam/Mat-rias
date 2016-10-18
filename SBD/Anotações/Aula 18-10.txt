@@ -1,0 +1,6 @@
+Função NVL() - sql, tem apenas no oracle, tratar campos não informados.
+grupos de dados - GROUP BY : agrupar por
+Count - possui em todos os padrões sql
+Sum
+Having
+
