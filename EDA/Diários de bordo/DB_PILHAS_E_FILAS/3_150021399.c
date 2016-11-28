@@ -79,13 +79,11 @@ int calculate(char *posfix){
 }
 
 int main(){
-    char s[20], *posfix, teste;
+    char s[20], *posfix;
 
     scanf("%s", s);
     posfix = infixToPosFix(s);
-    printf("%s\n", posfix);
     printf("%d", calculate(posfix));
-    //scanf("%c", &teste);
-    //printf("%d", teste);
+
     return 0;
 }

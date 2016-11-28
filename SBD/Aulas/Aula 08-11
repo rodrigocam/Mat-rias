@@ -1,0 +1,13 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Controle de concorrência  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Básico de bancos de dados, vários problemas podem ocorrer, 4 lógicas de controle, cada um com suas vantagens e desvantagens.
+Processo principal para o banco é a consistência;
+
+- Procolo de bloqueio: bloqueio de um dado específio da tabela ou tupla etc; (mutuamente exclusivo).
+Vários métodos de bloqueio - compartilhado e exclusivo.
+
+== Deadolock == (impasse)
+
+- Protocolo de bloqueio em duas fases: expansão e encolhimento, promover e rebaixar compartilhamentos, severo e rigoroso
+
+- Ordenação por timestamp: 
